@@ -1,0 +1,79 @@
+.blackbackground{
+	background-color: black;
+}
+.blackbackground p {
+	color: grey;
+
+}
+
+.big{
+	font-size: 25px;
+	margin-top: 30px;
+	margin-left: 250px;
+}
+
+.big2{
+	font-size: 25px;
+	margin-top: 10px;
+	margin-left: 355px;
+}
+
+.background{
+	background-color: black;
+	color: silver;
+	margin-top: 0px;
+}
+
+.colorwhite{
+	color: white;
+}
+
+.place1{
+	height: 380px;
+	margin-left: 30px;
+	margin-top: -8px;
+}
+
+.reunistenfont{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: 100;
+}
+
+.imgcontact{
+	height: 250px;
+	margin-top: 50px;
+	margin-right: 0px;
+}
+
+.year1989{
+	font-size: 17px;
+	margin-left: 30px;
+}
+
+.lichting1989{
+	font-size: 14px;
+	margin-left: 30px;
+}
+
+.year1993{
+	font-size: 17px;
+	margin-left: 30px;
+}
+
+.lichting1993{
+	font-size: 14px;
+	margin-left: 30px;
+}
+
+.imgbestuur{
+	height: 470;
+}
+
+
+
+
+
+
+
+
+
